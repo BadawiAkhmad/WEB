@@ -1,0 +1,134 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    background-image: linear-gradient(to left, #00C4FF, #30A2FF);
+
+}
+
+
+.navbar-brand {
+    font-size: 20px;
+    color: white;
+}
+
+.fa-right-from-bracket{
+    margin-right: 10px;
+    font-size: 25px;
+    color: black;
+}
+
+.col-md-2{
+    background-image: linear-gradient(to top, rgb(35, 192, 192), #19A7CE, #146C94);
+    border-radius: 10px;
+}
+
+.nav-link{
+    color: white;
+}
+
+.fa-solid{
+    margin-right: 3px;
+}
+
+.nav-link:hover{
+    background-color: white;
+}
+
+.card{
+    border-color: #0087fb;
+}
+
+.fa-school{
+    font-size: 25px;
+}
+
+.card-title{
+    font-size: 25px;
+}
+
+.card-text{
+    font-size: 15px;
+}
+
+.card-body-image{
+    position: absolute;
+    z-index: 0;
+    top: 25px;
+    right: 4px;
+    opacity: 0.4;
+    font-size: 90px;
+}
+
+
+
+.fa-computer{
+    font-size: 25px;
+}
+
+.fa-book-quran{
+    font-size: 25px;
+}
+
+.fa-scale-balanced{
+    font-size: 25px;
+}
+
+.fa-stethoscope{
+    font-size: 25px;
+}
+
+.fa-landmark{
+    font-size: 25px;
+}
+
+.fa-user-group{
+    font-size: 25px;
+}
+
+.fa-comments{
+    font-size: 25px;
+}
+
+.fa-book{
+    font-size: 25px;
+}
+
+.fa-circle-info{
+    font-size: 17px;
+    margin-left: 0px;
+    margin-right: 20px;
+    background-color: #0087fb;
+    padding: 4px;
+    color: white;
+    border-radius: 5px;
+}
+
+.fa-pen-to-square{
+    font-size: 17px;
+    margin-left: 0px;
+    margin-right: 20px;
+    background-color: #00d209;
+    color: white;
+    padding: 4px;
+    border-radius: 5px;
+}
+
+.fa-trash-can{
+    font-size: 17px;
+    margin-left: 2px;
+    margin-right: 20px;
+    background-color: #ff0202;
+    color: white;
+    padding: 4px;
+    border-radius: 5px;
+}
+
+.btn-primary{
+    font-size: 17px;
+}
+
+.edit{
+    background-color: #00d209;
+}
